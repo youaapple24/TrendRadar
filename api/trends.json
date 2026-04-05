@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T21:48:11.156656+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-05T22:28:57.748584+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -28,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 21时48分]"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 22时28分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -61,11 +62,12 @@
             14,
             11,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 21时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 22时28分]"
         },
         {
           "title": "AI时代，如何打赢人脸保护战？",
@@ -78,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时50分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[15时50分 ~ 22时28分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -91,6 +93,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时34分]"
+        },
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -122,29 +137,17 @@
           "time_info": "[15时50分 ~ 19时23分]"
         },
         {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时48分]"
-        },
-        {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 22时28分]"
         },
         {
           "title": "多部短剧AI角色“撞脸”易烊千玺，工作室声明：已委请律师开展维权工作",
@@ -199,11 +202,12 @@
           "url": "https://www.zhihu.com/question/1917868201259294860",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时28分]"
         },
         {
           "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
@@ -226,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "当下的 AI 是不是被过度神化了？",
@@ -328,11 +343,12 @@
             12,
             14,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 21时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 22时28分]"
         }
       ]
     }
