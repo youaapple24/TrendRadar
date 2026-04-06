@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T20:47:16.844350+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-04-06T22:06:49.530215+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -77,17 +77,6 @@
           "time_info": "[00时25分 ~ 12时37分]"
         },
         {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时23分]"
-        },
-        {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
           "url": "https://wallstreetcn.com/articles/3769308",
           "source": "华尔街见闻",
@@ -95,11 +84,12 @@
             9,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 22时06分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -113,8 +103,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 22时06分]"
+        },
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时23分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -126,11 +127,12 @@
             17,
             14,
             26,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 22时06分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月5日",
@@ -140,11 +142,12 @@
             19,
             17,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 20时47分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 22时06分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -169,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "如何看软著申请严查AI新规",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -204,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 22时06分]"
         },
         {
           "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
@@ -261,24 +287,13 @@
           "time_info": "12时37分"
         },
         {
-          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
           "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3082806",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -392,9 +407,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 22时06分]"
         }
       ]
     },
