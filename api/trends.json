@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T04:30:45.393114+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-04-07T05:31:14.785748+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时31分]"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
@@ -27,8 +27,50 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时31分]"
+        },
+        {
+          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2024406743845794724",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时37分 ~ 05时31分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时37分 ~ 05时31分]"
+        },
+        {
+          "title": "如何看软著申请严查AI新规",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 05时31分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -42,45 +84,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 03时46分]"
-        },
-        {
-          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
-          "url": "https://www.zhihu.com/question/2024406743845794724",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 04时30分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 04时30分]"
-        },
-        {
-          "title": "如何看软著申请严查AI新规",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 04时30分]"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -205,7 +208,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
