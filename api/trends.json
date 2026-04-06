@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T09:25:12.880336+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-04-06T12:37:29.318492+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -13,18 +13,6 @@
           "source": "贴吧",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时25分]"
-        },
-        {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
           ],
           "is_new": false,
           "appearance_count": 13,
@@ -42,8 +30,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时37分]"
+        },
+        {
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时37分]"
         },
         {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
@@ -71,8 +72,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时37分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -120,6 +121,122 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
+          "url": "https://flash.jin10.com/detail/20260406121342962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "AirAsia X创始人：飞机交付未出现延误；今年将按计划接收四架新机。",
+          "url": "https://flash.jin10.com/detail/20260406120359099800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "AirAsia X创始人：不受林吉特汇率波动影响；油价是最关键因素。",
+          "url": "https://flash.jin10.com/detail/20260406120353341800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
+          "url": "https://wallstreetcn.com/livenews/3082722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "AirAsia X创始人：马来西亚国家石油公司告知我们，燃油储备可维持至6月。越南和泰国对飞机加油仍有一定限制。",
+          "url": "https://flash.jin10.com/detail/20260406120124811800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "AirAsia X创始人：市场需求依然存在，人们仍想出行。",
+          "url": "https://flash.jin10.com/detail/20260406112211334800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "AirAsia X创始人：我们将不得不削减部分运力，因为预计无法在那些航线上覆盖燃油成本。将不得不提高票价、削减成本。",
+          "url": "https://flash.jin10.com/detail/20260406112153034800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟官员正敦促各国政府避免提供过度补贴来抵消激增的能源价格。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3082729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "Neurocrine即将达成一项斥资超过25亿美元收购Soleno Therapeutics的交易。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3082725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },
@@ -135,11 +252,12 @@
             13,
             16,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时37分]"
         }
       ]
     }
