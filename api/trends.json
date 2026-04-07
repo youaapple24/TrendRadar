@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T09:22:56.947256+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-04-07T12:26:39.253708+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 09时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 12时26分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -127,6 +128,18 @@
           "time_info": "[01时38分 ~ 02时43分]"
         },
         {
+          "title": "中国AI大模型调用量连续五周超美国",
+          "url": "https://www.toutiao.com/trending/7625463207994179611/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时26分]"
+        },
+        {
           "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
           "url": "https://flash.jin10.com/detail/20260407054852467800",
           "source": "金十数据",
@@ -151,6 +164,17 @@
           "time_info": "[03时46分 ~ 04时30分]"
         },
         {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时26分]"
+        },
+        {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3082921",
           "source": "华尔街见闻-快讯",
@@ -161,28 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时46分]"
-        },
-        {
-          "title": "中国AI大模型调用量连续五周超美国",
-          "url": "https://www.toutiao.com/trending/7625463207994179611/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
@@ -252,7 +254,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
