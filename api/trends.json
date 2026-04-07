@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T00:25:28.998086+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-08T01:50:20.146603+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时50分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时50分]"
         }
       ]
     }
