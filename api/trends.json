@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T03:52:03.533238+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-08T04:48:41.725659+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时48分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时48分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 03时52分]"
+        },
+        {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     }
