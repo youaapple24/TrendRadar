@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T06:31:10.501621+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-04-08T07:31:13.477142+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时31分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时31分]"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
