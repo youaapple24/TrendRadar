@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T04:48:41.725659+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-04-08T05:46:37.794585+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时46分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 05时46分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -48,7 +48,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
