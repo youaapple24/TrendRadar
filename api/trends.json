@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:02:19.375190+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-04-08T18:58:47.077676+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             19,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 18时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时58分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -51,6 +52,41 @@
           "time_info": "[12时29分 ~ 18时02分]"
         },
         {
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 18时58分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 18时58分]"
+        },
+        {
+          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 18时58分]"
+        },
+        {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
           "url": "https://www.cls.cn/detail/2336990",
           "source": "财联社热门",
@@ -63,28 +99,6 @@
           "time_info": "[07时30分 ~ 09时23分]"
         },
         {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025148296822351316",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
           "url": "https://wallstreetcn.com/livenews/3083664",
           "source": "华尔街见闻-快讯",
@@ -95,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 03时52分]"
-        },
-        {
-          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
-          "url": "https://www.zhihu.com/question/2024823845052269102",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "AI开始接管代码 计算机专业如何变革",
@@ -210,8 +213,41 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "陶能源已提交香港IPO申请，拟募资7亿至9亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3084283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "国家金融监督管理总局：聚焦稳定粮油生产、“菜篮子”产业提质增效、农业科技创新等持续加大金融支持力度",
+          "url": "https://wallstreetcn.com/livenews/3084264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
+          "title": "国家金融监督管理总局：合理确定普惠型涉农贷款内部倾斜政策，坚决防止并纠正“内卷式”竞争行为",
+          "url": "https://wallstreetcn.com/livenews/3084263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
         {
           "title": "A股大金融板块持续走强，第一创业触及涨停，财富趋势、银之杰涨超10%，同花顺、指南针、第一创业、财通证券、东方财富涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3084006",
