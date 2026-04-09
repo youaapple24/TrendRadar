@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-10T06:33:10.465318+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-04-10T07:32:02.612407+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
           "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时32分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时32分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -39,11 +40,12 @@
             23,
             25,
             22,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时32分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -54,8 +56,40 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时32分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15,
+            27,
+            16,
+            23,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时33分]"
+          "time_info": "[00时13分 ~ 07时32分]"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            20,
+            17,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 07时32分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -69,34 +103,15 @@
           "time_info": "[00时13分 ~ 05时39分]"
         },
         {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
+          "title": "消息称Anthropic考虑自主研发AI芯片",
+          "url": "https://flash.jin10.com/detail/20260410070524223800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            15,
-            27,
-            16,
-            23
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时39分]"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            16,
-            15,
-            20,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 06时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -108,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "xAI就科罗拉多州新AI法案提起诉讼",
+          "url": "https://flash.jin10.com/detail/20260410070147196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "OpenAI声称其算力比Anthropic更有优势",
@@ -214,6 +240,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3085370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
+          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
