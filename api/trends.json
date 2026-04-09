@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T21:02:17.012001+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-04-09T22:56:16.316870+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -15,11 +15,12 @@
             15,
             12,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 22时56分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -31,11 +32,12 @@
             15,
             17,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 21时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 22时56分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -70,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -91,11 +93,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时56分]"
         },
         {
           "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
@@ -107,6 +110,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时56分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -143,18 +159,6 @@
           "time_info": "[00时09分 ~ 04时34分]"
         },
         {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 21时02分]"
-        },
-        {
           "title": "央视揭AI仿声乱象",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%ADAI%E4%BB%BF%E5%A3%B0%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -188,6 +192,17 @@
           "time_info": "[12时25分 ~ 12时26分]"
         },
         {
+          "title": "IMF总裁：IMF分析显示，AI可能会帮助生产力提高至多0.8%，但也可能会在发达经济体殃及60%的就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3085187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
           "url": "https://wallstreetcn.com/livenews/3084971",
           "source": "华尔街见闻-快讯",
@@ -208,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
@@ -331,6 +357,17 @@
           "time_info": "18时04分"
         },
         {
+          "title": "日产汽车将在4-5月份向美国市场发送1400辆SUV，原来打算发货给中东市场，这种贸易方式可能会持续至6月甚至更晚。 这批车辆由日本福冈县的子公司——日产车体九州（Nissan Shatai Kyushu）生产。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3085170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "CoreWeave美股盘前涨超7%，公司与Meta签署210亿美元AI基础设施协议",
           "url": "https://wallstreetcn.com/livenews/3085038",
           "source": "华尔街见闻-快讯",
@@ -340,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI正在完成一款具备强大网络安全功能的产品，并计划将其仅向一小部分合作伙伴推出。",
+          "url": "https://flash.jin10.com/detail/20260409221331312800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
@@ -384,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "AI经济是泡沫吗",
