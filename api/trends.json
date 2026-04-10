@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:28:10.089153+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-04-10T16:17:43.760878+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 16时17分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -60,11 +60,12 @@
             17,
             21,
             29,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 12时39分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 16时17分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -132,6 +133,19 @@
         },
         {
           "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时17分]"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
@@ -165,18 +179,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时28分]"
-        },
-        {
           "title": "OpenAI声称其算力比Anthropic更有优势",
           "url": "https://flash.jin10.com/detail/20260410043705456800",
           "source": "金十数据",
@@ -187,6 +189,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时39分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时17分]"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -235,18 +250,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时49分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时28分]"
         },
         {
           "title": "最高涨价463% 你的AI员工变贵了",
@@ -330,6 +333,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美股盘前，台积电涨1.37%，公司Q1营收突破万亿大关，3月单月同比激增45%。Lumentum盘前涨超4%，得益于AI需求，公司预计2028年订单将迅速排满。",
+          "url": "https://wallstreetcn.com/livenews/3085705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "AI点燃存储芯片超级周期",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%82%B9%E7%87%83%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%B6%85%E7%BA%A7%E5%91%A8%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -350,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
@@ -391,7 +416,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -446,7 +471,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -487,8 +512,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时17分]"
         },
         {
           "title": "欧洲复兴开发银行（EBRD）：计划于2026年向受中东冲突影响的经济体投入50亿欧元。 支持资金将流向金融机构、企业和可持续基础设施，重点关注伊拉克、约旦、黎巴嫩、西岸和加沙地带，以及受波及的邻近经济体。",
@@ -575,7 +600,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -600,6 +625,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openclaw",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "《OpenClaw类智能体部署风险管理指南》正式发布",
+          "url": "https://flash.jin10.com/detail/20260410153207501800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "《OpenClaw类智能体部署风险管理指南》正式发布",
+          "url": "https://wallstreetcn.com/livenews/3085682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
