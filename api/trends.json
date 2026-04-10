@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:27:25.210080+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-11T07:27:42.172941+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -26,11 +27,12 @@
             23,
             17,
             18,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 07时27分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -40,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时27分]"
         },
         {
           "title": "中国AI芯片格局反转",
@@ -51,11 +53,12 @@
             16,
             28,
             23,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[03时38分 ~ 07时27分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -150,8 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -161,8 +164,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "印尼官员：与中国金融合作提升印尼信心与韧性",
