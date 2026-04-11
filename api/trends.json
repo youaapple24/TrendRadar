@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:35:39.146418+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-04-11T21:49:15.491465+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,21 @@
           "time_info": "[00时41分 ~ 07时27分]"
         },
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时54分 ~ 21时49分]"
+        },
+        {
           "title": "夫妻称用AI写公众号年赚200万被封号",
           "url": "https://www.toutiao.com/trending/7626953352832040996/",
           "source": "今日头条",
@@ -35,18 +50,33 @@
           "time_info": "[01时41分 ~ 07时27分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
           "ranks": [
-            13,
-            10,
-            7,
-            6
+            19,
+            21,
+            16,
+            17,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 20时35分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 21时49分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时49分]"
         },
         {
           "title": "中国AI芯片格局反转",
@@ -76,31 +106,17 @@
           "time_info": "[05时29分 ~ 09时19分]"
         },
         {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            6
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 20时35分]"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 20时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时49分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -153,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时12分 ~ 15时44分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时35分]"
         },
         {
           "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
@@ -313,7 +317,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
