@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:49:15.491465+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2026-04-11T22:29:42.979343+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时54分 ~ 21时49分]"
+          "appearance_count": 12,
+          "time_info": "[13时54分 ~ 22时29分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -59,11 +59,12 @@
             16,
             17,
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 21时49分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 22时29分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -72,11 +73,12 @@
           "ranks": [
             5,
             6,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时49分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 22时29分]"
         },
         {
           "title": "中国AI芯片格局反转",
@@ -112,11 +114,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时29分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -232,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时32分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
