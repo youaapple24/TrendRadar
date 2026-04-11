@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T02:31:36.106141+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-04-12T03:29:43.081032+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时29分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时29分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时29分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -48,11 +49,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时29分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -77,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时29分]"
         },
         {
           "title": "据英国金融时报：美伊谈判代表在霍尔木兹海峡问题上陷入僵局。",
