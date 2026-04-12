@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T14:20:16.253538+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-04-12T15:58:56.072862+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 14时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时58分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -81,11 +81,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时58分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
@@ -93,22 +94,24 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 15时58分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260412130705252800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时58分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
