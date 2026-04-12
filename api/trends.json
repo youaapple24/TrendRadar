@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T15:58:56.072862+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-04-12T16:44:09.905758+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 16时44分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -82,11 +82,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 16时44分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 15时58分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
