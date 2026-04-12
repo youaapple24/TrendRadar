@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:31:38.361634+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-04-12T19:27:53.578535+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 18时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 19时27分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -61,8 +62,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 19时27分]"
         },
         {
           "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
@@ -81,6 +82,19 @@
           "time_info": "[12时40分 ~ 18时31分]"
         },
         {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时27分]"
+        },
+        {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
           "url": "https://www.zhihu.com/question/2025885699283382999",
           "source": "知乎",
@@ -90,18 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "国产AI模型为何大多免费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时31分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
@@ -144,11 +146,12 @@
           "url": "https://wallstreetcn.com/livenews/3086367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时27分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
