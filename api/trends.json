@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T21:02:27.610868+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-04-13T23:08:51.608765+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -53,11 +53,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时51分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时51分 ~ 23时08分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -92,6 +93,18 @@
           "time_info": "[00时27分 ~ 07时26分]"
         },
         {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 23时08分]"
+        },
+        {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
@@ -104,15 +117,17 @@
           "time_info": "[00时27分 ~ 06时24分]"
         },
         {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            14,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 23时08分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -126,19 +141,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时34分 ~ 07时26分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 21时02分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -190,6 +192,18 @@
           "time_info": "[12时51分 ~ 15时10分]"
         },
         {
+          "title": "北京最火饺子馆开始喂AI龙虾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 23时08分]"
+        },
+        {
           "title": "软银成立新公司开发日本国产AI",
           "url": "https://flash.jin10.com/detail/20260413144447936800",
           "source": "金十数据",
@@ -212,6 +226,17 @@
           "time_info": "19时10分"
         },
         {
+          "title": "日本软银集团计划发行美元债券和欧元债券，共六种到期时间。 该公司正与投资者们洽谈。 这批融资将用于支持OpenAI等目的。",
+          "url": "https://wallstreetcn.com/livenews/3087037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "浑水创始人布洛克表示，人工智能可能会引发比2008年全球金融危机规模更大的股市动荡，为那些多年来做空美国股票但收益惨淡的投资者重新创造机会。今年软件行业以及其他被视为“AI时代失意者”的板块出现的剧烈抛售，是“即将到来的AI颠覆的前兆”，这将重新激发卖空行为。",
           "url": "https://flash.jin10.com/detail/20260413121858370800",
           "source": "金十数据",
@@ -229,18 +254,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "北京最火饺子馆开始喂AI龙虾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -251,7 +265,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -273,7 +287,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -322,22 +336,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 23时08分]"
         },
         {
           "title": "最新金融数据出炉：一季度企业债、股票融资占比提升，科技、数字等领域获支持力度加大",
           "url": "https://www.cls.cn/detail/2342381",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 23时08分]"
         },
         {
           "title": "教育部与金融监管总局联合召开国家卓越金融人才培养基地共建工作启动会",
