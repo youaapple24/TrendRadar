@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T17:45:08.625563+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-04-13T19:10:05.908373+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时26分]"
+        },
+        {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 19时10分]"
         },
         {
           "title": "央视曝光AI“造黄”产业链",
@@ -49,30 +63,17 @@
           "time_info": "[00时27分 ~ 07时26分]"
         },
         {
-          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
-          "url": "https://www.zhihu.com/question/2026361952214017900",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 17时45分]"
-        },
-        {
           "title": "央视重锤!AI造黄产业链被扒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 17时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 19时10分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -100,6 +101,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 06时24分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -141,6 +153,18 @@
           "time_info": "[09时30分 ~ 15时10分]"
         },
         {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时10分]"
+        },
+        {
           "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
           "url": "https://www.cls.cn/detail/2341719",
           "source": "财联社热门",
@@ -164,17 +188,6 @@
           "time_info": "[12时51分 ~ 15时10分]"
         },
         {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "软银成立新公司开发日本国产AI",
           "url": "https://flash.jin10.com/detail/20260413144447936800",
           "source": "金十数据",
@@ -184,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "国芯科技与中国人民大学签约 将共研AI安全推理一体机",
+          "url": "https://flash.jin10.com/detail/20260413185111179800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "浑水创始人布洛克表示，人工智能可能会引发比2008年全球金融危机规模更大的股市动荡，为那些多年来做空美国股票但收益惨淡的投资者重新创造机会。今年软件行业以及其他被视为“AI时代失意者”的板块出现的剧烈抛售，是“即将到来的AI颠覆的前兆”，这将重新激发卖空行为。",
@@ -214,7 +238,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -233,7 +257,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "惠誉评级：印度尼西亚金融与租赁行业具有韧性；地缘政治风险依然存在。",
@@ -245,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "【数据看盘】多只金融相关ETF上周份额大减 游资联手量化抢筹兴森科技",
+          "url": "https://www.cls.cn/detail/2342415",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
         },
         {
           "title": "教育部与金融监管总局联合召开国家卓越金融人才培养基地共建工作启动会",
