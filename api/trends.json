@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-14T09:28:16.471355+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-04-14T12:39:24.989900+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时28分]"
-        },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
@@ -26,11 +14,25 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 12时39分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 12时39分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -38,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 12时39分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -58,13 +61,24 @@
           "time_info": "[03时01分 ~ 07时35分]"
         },
         {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "日产：计划在未来90%的车型中应用日产AI驾驶技术。",
           "url": "https://flash.jin10.com/detail/20260414091720782800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -91,6 +105,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
           "url": "https://wallstreetcn.com/livenews/3087209",
           "source": "华尔街见闻-快讯",
@@ -102,6 +127,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
+          "url": "https://www.zhihu.com/question/2024505845799556342",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
           "url": "https://flash.jin10.com/detail/20260414043421131800",
           "source": "金十数据",
@@ -111,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "OpenAI投资者质疑其8520亿美元估值，称其战略正在转变。一些OpenAI投资者表示，这些变化可能会使OpenAI容易受到Anthropic和谷歌的威胁。",
+          "url": "https://flash.jin10.com/detail/20260414120312885800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "Claude：正调查Claude.AI出现的一个问题。",
@@ -144,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "快看漫画将研发多款AI应用，涉及AI角色互动等",
+          "url": "https://wallstreetcn.com/livenews/3087378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         }
       ]
     },
@@ -248,11 +306,12 @@
           "url": "https://wallstreetcn.com/articles/3769838",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 12时39分]"
         }
       ]
     }
