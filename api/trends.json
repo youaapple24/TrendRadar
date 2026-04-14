@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:53:22.029298+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-04-14T21:02:19.473719+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             16,
             18,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 19时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 21时02分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -49,11 +50,12 @@
             17,
             19,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 19时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 21时02分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -80,15 +82,18 @@
           "time_info": "[12时39分 ~ 14时26分]"
         },
         {
-          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://wallstreetcn.com/livenews/3087702",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            7,
+            9,
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 21时02分]"
         },
         {
           "title": "AI突袭短剧 “霸总爹”失业",
@@ -103,17 +108,16 @@
           "time_info": "[16时21分 ~ 18时08分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
+          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://wallstreetcn.com/livenews/3087702",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9,
-            16
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 19时53分]"
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时02分]"
         },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -121,11 +125,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时02分]"
         },
         {
           "title": "网易云音乐就AI广告诡异画面道歉",
@@ -168,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -234,7 +239,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -330,7 +335,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "最新金融数据出炉：一季度企业债、股票融资占比提升，科技、数字等领域获支持力度加大",
@@ -419,6 +424,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "日本央行行长植田和男：将继续密切关注中东冲突对经济前景及金融状况的影响。",
+          "url": "https://flash.jin10.com/detail/20260414204154098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
@@ -428,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "日本央行行长植田和男：鉴于中东冲突已导致金融市场动荡，需谨慎应对。",
+          "url": "https://flash.jin10.com/detail/20260414203815412800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "中欧国际工商学院院长汪泓：跨境金融和离岸市场是企业高质量出海的关键基础设施",
@@ -447,7 +474,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
@@ -494,11 +521,12 @@
           "ranks": [
             13,
             17,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 21时02分]"
         }
       ]
     }
