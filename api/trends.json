@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:28:42.204646+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-04-15T16:23:25.589245+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -24,6 +24,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 14时28分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时43分 ~ 16时23分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -50,6 +62,18 @@
           "time_info": "[00时56分 ~ 09时24分]"
         },
         {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 16时23分]"
+        },
+        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
@@ -61,29 +85,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时56分 ~ 06时38分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时43分 ~ 14时28分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 14时28分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -155,6 +156,19 @@
           "time_info": "[04时43分 ~ 05时44分]"
         },
         {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 16时23分]"
+        },
+        {
           "title": "Meta与博通就定制款AI芯片签署协议",
           "url": "https://wallstreetcn.com/livenews/3087983",
           "source": "华尔街见闻-快讯",
@@ -191,18 +205,6 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 14时28分]"
-        },
-        {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
@@ -237,6 +239,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "曝爱奇艺与深度合作艺人签约AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E8%89%BA%E4%BA%BA%E7%AD%BE%E7%BA%A6AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -259,6 +272,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
+          "url": "https://www.cls.cn/detail/2344233",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "英国央行行长贝利警告AI模型Mythos或威胁金融稳定",
           "url": "https://flash.jin10.com/detail/20260415022142675800",
           "source": "金十数据",
@@ -279,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "马斯克：AI5将成为有史以来产量最大的人工智能芯片之一。",
+          "url": "https://flash.jin10.com/detail/20260415154014890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "微软将接管OpenAI在挪威数据中心的租约",
@@ -331,7 +366,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -342,9 +377,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "哪个艺人授权AI了",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AA%E8%89%BA%E4%BA%BA%E6%8E%88%E6%9D%83AI%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
