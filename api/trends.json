@@ -1,8 +1,131 @@
 {
-  "generated_at": "2026-04-16T06:34:08.019353+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-04-16T07:34:57.591138+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            8,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
+          "url": "https://wallstreetcn.com/livenews/3088814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时34分]"
+        },
+        {
+          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
+          "url": "https://wallstreetcn.com/livenews/3088776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时34分]"
+        },
+        {
+          "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
+          "url": "https://wallstreetcn.com/livenews/3088802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
+          "url": "https://wallstreetcn.com/livenews/3088801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260415233459124800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "Claude：正调查Claude.AI出错率偏高这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3088634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "鞋类和服装产品供应商Allbirds一度上涨461%，最高达到13.97美元，该公司宣布切换至AI赛道。",
+          "url": "https://wallstreetcn.com/livenews/3088625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "金融",
       "match_count": 10,
@@ -13,11 +136,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时34分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时34分]"
         },
         {
           "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
@@ -36,11 +160,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            18
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时34分]"
+        },
+        {
+          "title": "据英国金融时报：黎巴嫩官员表示，以色列与黎巴嫩之间的停火预计“很快”将达成。",
+          "url": "https://flash.jin10.com/detail/20260416053227031800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时34分]"
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "美国财长贝森特：昨天会见了阿联酋财政事务国务部长穆罕默德·本·哈迪·阿尔·侯赛尼，讨论美国与阿联酋之间持续推进的经济与金融合作。我们还讨论了在对伊朗问题上维持“最大压力”的重要性。",
@@ -63,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "据英国金融时报：黎巴嫩官员表示，以色列与黎巴嫩之间的停火预计“很快”将达成。",
-          "url": "https://flash.jin10.com/detail/20260416053227031800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
         },
         {
           "title": "乌克兰总理：今天与美国财长贝森特会面。我们讨论了乌克兰的金融和能源状况，以及中东局势对全球市场的影响。",
@@ -118,94 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时34分]"
-        },
-        {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时34分]"
-        },
-        {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时34分]"
-        },
-        {
-          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
-          "url": "https://wallstreetcn.com/livenews/3088776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时34分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260415233459124800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "Claude：正调查Claude.AI出错率偏高这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3088634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "鞋类和服装产品供应商Allbirds一度上涨461%，最高达到13.97美元，该公司宣布切换至AI赛道。",
-          "url": "https://wallstreetcn.com/livenews/3088625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
         }
       ]
     }
