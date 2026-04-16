@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-16T09:44:43.366875+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-04-16T12:45:38.846205+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 09时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 12时45分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -58,6 +59,18 @@
           "time_info": "[05时43分 ~ 07时34分]"
         },
         {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 12时45分]"
+        },
+        {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
           "url": "https://wallstreetcn.com/livenews/3088776",
           "source": "华尔街见闻-快讯",
@@ -70,15 +83,48 @@
           "time_info": "[05时43分 ~ 06时34分]"
         },
         {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/rwMtworB3_eETzNHmOVPB.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260416121641984800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "12时45分"
+        },
+        {
+          "title": "明星AI项目被曝抄袭中国团队",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9FAI%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%9B%9D%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "阿里巴巴发布可用于游戏开发的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3088996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
@@ -134,12 +180,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "卖鞋的也来做AI！“硅谷标配球鞋”公司一夜暴涨近600%",
+          "url": "https://flash.jin10.com/detail/20260416120712209800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "黎巴嫩官员们表示：预计“很快”将与以色列之间停火。（英国金融时报）",
@@ -222,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "英国将很快开启谈判，计划加入欧盟科技基金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3088999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：更高的石油价格意味着，美国通胀预期可能会上升。（英国金融时报）",
