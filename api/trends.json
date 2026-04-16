@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:06:02.585731+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2026-04-16T23:19:27.933720+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -23,6 +23,18 @@
           "time_info": "[09时44分 ~ 21时06分]"
         },
         {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 23时19分]"
+        },
+        {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
@@ -36,20 +48,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时00分 ~ 21时06分]"
-        },
-        {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 21时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时00分 ~ 23时19分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -79,8 +79,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时45分 ~ 21时06分]"
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 23时19分]"
         },
         {
           "title": "台积电：鉴于中东局势，正谨慎进行业务规划。 人工智能需求依然“极为强劲”。 客户向我们传递了非常强烈的需求信号。 公司产能依然紧张。 关注组件价格上涨带来的影响。 N2工艺已进入大规模量产。 为满足强劲的AI需求，正在加大资本支出以提升N3产能。 正在提升日本和德国的成熟制程产能。 计划逐步关闭6英寸晶圆厂。 将继续优化我们的产能策略。",
@@ -140,6 +140,18 @@
           "time_info": "[21时05分 ~ 21时06分]"
         },
         {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 23时19分]"
+        },
+        {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
           "url": "https://wallstreetcn.com/livenews/3088776",
           "source": "华尔街见闻-快讯",
@@ -164,6 +176,17 @@
           "time_info": "[14时29分 ~ 16时23分]"
         },
         {
+          "title": "美联储理事米兰：AI开始影响美国的劳动力市场。",
+          "url": "https://wallstreetcn.com/livenews/3089449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/rwMtworB3_eETzNHmOVPB.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260416121641984800",
           "source": "金十数据",
@@ -186,6 +209,17 @@
           "time_info": "19时53分"
         },
         {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "明星AI项目被曝抄袭中国团队",
           "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9FAI%E9%A1%B9%E7%9B%AE%E8%A2%AB%E6%9B%9D%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F",
           "source": "百度热搜",
@@ -195,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        },
-        {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "阿里巴巴发布可用于游戏开发的AI模型",
@@ -280,9 +303,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "据行业组织American Securities Association：Anthropic的Mythos模型对美国证券交易委员会（SEC）市场追踪数据库构成风险。 这款新型AI模型可能会让交易员和金融系统面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3089434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "Claude：正调查Claude.AI出错率偏高这个问题。",
@@ -316,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "告别高危人工作业，云深处“AI防汛勇士”机器狗首次亮相",
+          "url": "https://wallstreetcn.com/livenews/3089423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
@@ -323,6 +368,19 @@
       "keyword_group": "金融",
       "match_count": 15,
       "titles": [
+        {
+          "title": "国家网信办持续整治网上金融信息乱象",
+          "url": "https://www.cls.cn/detail/2346299",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时08分 ~ 23时19分]"
+        },
         {
           "title": "黎巴嫩官员们表示：预计“很快”将与以色列之间停火。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3088794",
@@ -335,19 +393,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时34分]"
-        },
-        {
-          "title": "国家网信办持续整治网上金融信息乱象",
-          "url": "https://www.cls.cn/detail/2346299",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时08分 ~ 21时06分]"
         },
         {
           "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
