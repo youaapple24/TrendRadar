@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:53:13.382944+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-17T05:36:21.801990+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -24,17 +24,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
-          "url": "https://wallstreetcn.com/livenews/3089499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -49,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -61,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -72,8 +61,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时36分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -83,8 +72,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
+          "url": "https://wallstreetcn.com/livenews/3089499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "OpenAI发布Codex更新",
@@ -158,7 +169,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "国家网信办持续整治网上金融信息乱象",
@@ -169,8 +180,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时36分]"
+        },
+        {
+          "title": "声明显示：七国集团财长在华盛顿会议上讨论了中东危机的经济和金融后果、关键矿产供应链以及对乌克兰的支持。",
+          "url": "https://flash.jin10.com/detail/20260417050108270800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "七国集团（G7）声明：财长财长们讨论中东危机的经济与金融后果、关键矿物供应链、以及乌克兰问题。 各成员国财长在华盛顿举行的会议上讨论了中东危机的经济与金融后果、关键矿产供应链以及对乌克兰的支持。 各成员国财长一致认为，限制长期中东冲突给全球经济带来的成本具有紧迫性。 G7成员国对冲突给最脆弱国家带来的直接和间接影响保持高度警惕。 G7各成员国财长及央行行长重申了对乌克兰的支持。 各成员国财长讨论了维持对俄罗斯施压的必要性，以防止中东危机使其战争行动受益。 各成员国财长讨论了满足乌克兰能源需求的问题，以为即将到来的冬季做准备。",
+          "url": "https://wallstreetcn.com/livenews/3089582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
