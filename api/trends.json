@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T22:18:22.301069+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2026-04-17T23:51:43.792119+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
@@ -34,8 +34,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时04分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[01时04分 ~ 23时51分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -104,6 +104,17 @@
           "time_info": "[09时27分 ~ 22时18分]"
         },
         {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 23时51分]"
+        },
+        {
           "title": "国产AI激光“灭蚊神器”海外爆单",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
           "source": "百度热搜",
@@ -129,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 14时31分]"
-        },
-        {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 22时18分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -316,6 +316,17 @@
           "time_info": "[09时27分 ~ 09时28分]"
         },
         {
+          "title": "AI驱动核能需求，美国瞄准纳米比亚铀矿",
+          "url": "https://flash.jin10.com/detail/20260417233417863800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
           "url": "https://wallstreetcn.com/livenews/3089493",
           "source": "华尔街见闻-快讯",
@@ -344,7 +355,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
