@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T01:41:44.620915+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-18T02:44:38.463698+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -99,19 +99,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "美国AI聊天机器人续开精神类处方药引质疑",
           "url": "https://wallstreetcn.com/livenews/3090263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时44分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -121,8 +122,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时44分]"
         },
         {
           "title": "Anthropic高管Dario Amodei将与美国白宫开会，讨论最近发布的AI模型Mythos。",
