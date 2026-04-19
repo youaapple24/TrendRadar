@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:35:52.380968+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-04-20T04:27:46.533434+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -40,8 +40,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -73,9 +73,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时27分]"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -87,6 +87,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿联酋已与美国展开货币互换谈判。阿联酋请求美国提供战时金融支持。",
+          "url": "https://flash.jin10.com/detail/20260420040424980800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     }
