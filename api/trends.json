@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:39:08.950513+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-04-19T18:32:03.794383+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时28分 ~ 09时32分]"
         },
         {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 18时32分]"
+        },
+        {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
@@ -28,11 +40,12 @@
             7,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 17时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 18时32分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -59,11 +72,12 @@
             11,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 17时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 18时32分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -76,20 +90,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 17时39分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 17时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 18时32分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -138,6 +140,18 @@
           "time_info": "[12时45分 ~ 14时25分]"
         },
         {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时32分]"
+        },
+        {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
           "url": "https://wallstreetcn.com/articles/3770318",
           "source": "华尔街见闻",
@@ -147,17 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        },
-        {
-          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
-          "url": "https://flash.jin10.com/detail/20260419155228082800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         }
       ]
     }
