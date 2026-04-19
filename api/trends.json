@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:26:12.696694+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-04-20T07:28:09.826649+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时28分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时28分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -40,19 +40,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时28分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时35分 ~ 06时26分]"
+          "appearance_count": 7,
+          "time_info": "[03时35分 ~ 07时28分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -84,7 +85,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
