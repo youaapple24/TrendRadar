@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T14:25:49.360663+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-04-19T16:02:32.175313+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 16时02分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -57,11 +58,12 @@
           "ranks": [
             11,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 16时02分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -70,27 +72,29 @@
           "ranks": [
             20,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时25分]"
-        },
-        {
-          "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
-          "url": "https://wallstreetcn.com/articles/3770323",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 14时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
           "url": "https://www.zhihu.com/question/2028616808370849247",
           "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 16时02分]"
+        },
+        {
+          "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
+          "url": "https://wallstreetcn.com/articles/3770323",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -114,11 +118,12 @@
           "url": "https://wallstreetcn.com/articles/3770324",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 16时02分]"
         },
         {
           "title": "AI让人越来越累",
