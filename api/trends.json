@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:35:28.145626+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-04-21T07:35:24.756964+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -67,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -83,6 +83,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 05时39分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            17,
+            23,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -115,29 +130,27 @@
           "time_info": "[00时55分 ~ 05时39分]"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            17,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时35分]"
-        },
-        {
           "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 06时35分]"
+          "appearance_count": 7,
+          "time_info": "[03时55分 ~ 07时35分]"
+        },
+        {
+          "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
+          "url": "https://flash.jin10.com/detail/20260421065051985800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -147,8 +160,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -157,11 +170,12 @@
           "ranks": [
             16,
             21,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 07时35分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -188,6 +202,18 @@
           "time_info": "[01时51分 ~ 02时52分]"
         },
         {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
           "title": "AI版成何体统逐玉",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%E9%80%90%E7%8E%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -197,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 03时56分]"
-        },
-        {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
         },
         {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
