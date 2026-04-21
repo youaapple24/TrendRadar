@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T05:38:31.176560+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-22T06:31:44.177471+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时31分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时31分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
@@ -38,19 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时38分]"
-        },
-        {
-          "title": "SpaceX文件显示，关于轨道AI数据中心以及月球和火星基础设施的计划涉及尚未验证的技术，并且可能在商业上不可行。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3092108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时31分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -60,11 +49,12 @@
             12,
             10,
             13,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时31分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -74,8 +64,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时31分]"
+        },
+        {
+          "title": "SpaceX文件显示，关于轨道AI数据中心以及月球和火星基础设施的计划涉及尚未验证的技术，并且可能在商业上不可行。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3092108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
@@ -108,11 +109,12 @@
           "ranks": [
             24,
             27,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 06时31分]"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
@@ -137,6 +139,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
+          "url": "https://wallstreetcn.com/livenews/3092121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "OpenAI推出ChatGPT Images2.0图像模型。",
           "url": "https://wallstreetcn.com/livenews/3092057",
           "source": "华尔街见闻-快讯",
@@ -154,9 +167,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "SpaceX在上市文件中警示：太空AI项目技术未经验证，商业前景存疑",
+          "url": "https://wallstreetcn.com/livenews/3092108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -187,7 +211,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         }
