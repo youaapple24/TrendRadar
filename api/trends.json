@@ -1,591 +1,127 @@
 {
-  "generated_at": "2026-04-23T23:15:15.269326+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2026-04-24T01:11:18.649796+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时56分 ~ 23时15分]"
-        },
-        {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时39分]"
-        },
-        {
-          "title": "受AI冲击 短剧霸总回家种地",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            16,
-            5,
-            1,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 23时15分]"
-        },
-        {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            13,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 23时15分]"
-        },
-        {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 09时31分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            14,
-            17,
-            18,
-            19,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 23时15分]"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 09时31分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时40分]"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时40分]"
-        },
-        {
-          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
-          "url": "https://www.cls.cn/detail/2352906",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时31分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
           "url": "https://www.zhihu.com/question/2027998176116777421",
           "source": "知乎",
           "ranks": [
-            14,
-            7,
-            4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
           "url": "https://wallstreetcn.com/articles/3770653",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 23时15分]"
-        },
-        {
-          "title": "美国国务院批准向立陶宛潜在出售AIM-9X“响尾蛇”Block II导弹，金额为2.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20260423033837315800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时05分"
+          "time_info": "01时11分"
         },
         {
-          "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
-          "url": "https://wallstreetcn.com/livenews/3092896",
-          "source": "华尔街见闻-快讯",
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
-          "url": "https://wallstreetcn.com/livenews/3093173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 18时15分]"
-        },
-        {
-          "title": "OpenAI在ChatGPT引入Workspace Agents。",
-          "url": "https://wallstreetcn.com/livenews/3092779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
-        },
-        {
-          "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
-          "url": "https://wallstreetcn.com/livenews/3092753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
-        },
-        {
-          "title": "Image2 消除AI味儿",
-          "url": "https://s.weibo.com/weibo?q=Image2%20%E6%B6%88%E9%99%A4AI%E5%91%B3%E5%84%BF&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时02分]"
-        },
-        {
-          "title": "AI演员还算不算演员",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E8%BF%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%BC%94%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时02分]"
-        },
-        {
-          "title": "AI再现黄海海战 福建舰北洋水师同框",
-          "url": "https://www.toutiao.com/trending/7630692654993227818/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时54分]"
-        },
-        {
-          "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3092771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
-        },
-        {
-          "title": "五角大楼申请540亿美元预算 大举推进AI无人作战体系",
-          "url": "https://www.cls.cn/detail/2352844",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 14时56分]"
-        },
-        {
-          "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
-          "url": "https://wallstreetcn.com/livenews/3092846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时40分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "对比实测3大AI生图模型",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时31分]"
-        },
-        {
-          "title": "当今AI音乐发展水平如何",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%8AAI%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "直击“新股王”源杰科技股东会：AI需求“指数级增长” 设备到场后产能将逐季释放",
-          "url": "https://www.cls.cn/detail/2353083",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "GE Vernova第一季度订单狂飙 AI时代能源新周期全面爆发",
-          "url": "https://www.cls.cn/detail/2352711",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "抖音上线AI创作功能，设独立入口",
-          "url": "https://wallstreetcn.com/livenews/3093388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850512&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/tkqLuXqkUDUaqE011Sbj4.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260423120210812800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "阿里千问总裁吴嘉：“AI办事”对外开放，首家接入东航",
-          "url": "https://wallstreetcn.com/livenews/3093038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
-          "url": "https://www.zhihu.com/topic/2015450431187346551/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "微软承诺投入180亿美元，用于建设澳大利亚的AI能力。",
-          "url": "https://wallstreetcn.com/livenews/3092931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "全国首例AI模型侵权案详情披露，类似案件审理仍面临难题",
-          "url": "https://wallstreetcn.com/livenews/3093203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT中引入工作空间助手。",
-          "url": "https://flash.jin10.com/detail/20260423014529135800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
-          "url": "https://wallstreetcn.com/livenews/3092882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3092928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "神仙肉 AI配角",
-          "url": "https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BB%99%E8%82%89%20AI%E9%85%8D%E8%A7%92&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "AI艺人库为何遭抵制",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "能定位会判断，AI乒乓机器人击败人类高手",
-          "url": "https://wallstreetcn.com/livenews/3092758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
-          "url": "https://wallstreetcn.com/livenews/3092834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "软银寻求以OpenAI股份为抵押的100亿美元保证金贷款",
-          "url": "https://flash.jin10.com/detail/20260423084403730800",
-          "source": "金十数据",
-          "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "01时11分"
         },
         {
-          "title": "Meta Platforms(META.O)：监管青少年账户的家长现在可以查看其子女在过去七天内向Meta AI询问的主题。该功能目前向美国、英国、澳大利亚、加拿大和巴西监管青少年账户的家长开放，预计将在未来几周内在全球范围推出。",
-          "url": "https://flash.jin10.com/detail/20260423190247699800",
-          "source": "金十数据",
+          "title": "AI演员还算不算演员",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E8%BF%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%BC%94%E5%91%98",
+          "source": "百度热搜",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "OpenAI发布隐私过滤器模型以编辑个人数据",
-          "url": "https://wallstreetcn.com/livenews/3092726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "前美国特许金融分析师协会（CFA Institute）高管承认窃取600万美元公款。",
-          "url": "https://flash.jin10.com/detail/20260423003746241800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "欧盟重新考虑对北极石油和天然气开采的反对立场。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3092770",
+          "title": "韩国举办研讨会聚焦中韩金融合作新前景",
+          "url": "https://wallstreetcn.com/livenews/3093427",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
-        },
-        {
-          "title": "据英国金融时报：巴克莱表示，英国可通过帮助银行购买英国国债节省25亿英镑。",
-          "url": "https://flash.jin10.com/detail/20260423120811385800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "01时11分"
         },
         {
-          "title": "据英国金融时报：欧盟重新考虑对北极石油和天然气开采的反对立场。",
-          "url": "https://flash.jin10.com/detail/20260423011952237800",
+          "title": "韩国举办研讨会聚焦中韩金融合作新前景",
+          "url": "https://flash.jin10.com/detail/20260424000744116800",
           "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "agent",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时11分"
+        },
         {
-          "title": "混元重建后首发并开源Hy3 preview：主打全面实用性，Agent能力大幅提升",
-          "url": "https://wallstreetcn.com/livenews/3093185",
+          "title": "明晟公司MSCI北欧国家指数跌0.1%，报385.21点，创4月13日以来收盘新低。 在十个板块中，北欧金融板块跌幅最大。 Beijer Ref AB跌6.0%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3093419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "01时11分"
         }
       ]
     }
