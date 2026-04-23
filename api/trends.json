@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T09:31:59.638616+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-04-23T12:44:57.933988+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -37,11 +37,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 12时44分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -103,6 +104,18 @@
           "time_info": "07时39分"
         },
         {
+          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
+          "url": "https://www.cls.cn/detail/2352906",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 12时44分]"
+        },
+        {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
           "url": "https://wallstreetcn.com/livenews/3092779",
           "source": "华尔街见闻-快讯",
@@ -151,17 +164,6 @@
           "time_info": "[05时43分 ~ 06时40分]"
         },
         {
-          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
-          "url": "https://www.cls.cn/detail/2352906",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "当今AI音乐发展水平如何",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%8AAI%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -184,13 +186,57 @@
           "time_info": "05时43分"
         },
         {
+          "title": "五角大楼申请540亿美元预算 大举推进AI无人作战体系",
+          "url": "https://www.cls.cn/detail/2352844",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850512&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/tkqLuXqkUDUaqE011Sbj4.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260423120210812800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "阿里千问总裁吴嘉：“AI办事”对外开放，首家接入东航",
+          "url": "https://wallstreetcn.com/livenews/3093038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
+          "url": "https://www.zhihu.com/topic/2015450431187346551/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "微软承诺投入180亿美元，用于建设澳大利亚的AI能力。",
           "url": "https://wallstreetcn.com/livenews/3092931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -223,9 +269,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "AI艺人库为何遭抵制",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "能定位会判断，AI乒乓机器人击败人类高手",
@@ -256,7 +324,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -270,12 +338,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "前美国特许金融分析师协会（CFA Institute）高管承认窃取600万美元公款。",
@@ -299,6 +378,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时59分]"
+        },
+        {
+          "title": "据英国金融时报：巴克莱表示，英国可通过帮助银行购买英国国债节省25亿英镑。",
+          "url": "https://flash.jin10.com/detail/20260423120811385800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "据英国金融时报：欧盟重新考虑对北极石油和天然气开采的反对立场。",
