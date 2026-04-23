@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T02:56:18.141825+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-24T04:03:05.505683+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -62,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -73,8 +75,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时03分]"
         },
         {
           "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
@@ -83,7 +85,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -94,7 +96,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -105,7 +107,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -116,7 +118,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -127,7 +129,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -138,7 +140,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -157,8 +159,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "标普500指数初步收跌0.4%，科技板块跌1.6%，可选消费板块跌1%，金融板块跌0.9%，日用品板块涨1.7%，公用事业板块涨2.8%。 纳斯达克100指数初步收跌0.5%，成分股中，Workday初步收跌9.5%，Palantir跌7.5%，Zscaler、Adobe、CTSH、AppLovin、财捷Intuit、Shopify至多跌6.8%，铿腾电子跌5.2%，恩智浦涨6.6%，微芯科技涨9.5%，德州仪器狂飙19%。 Salesforce初步收跌8.8%，与IBM、美国运通、微软、霍尼韦尔领跌道指成分股，卡特彼勒则涨3.2%。 半导体指数连续第十七个交易日收涨。",
+          "url": "https://wallstreetcn.com/livenews/3093506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
         {
           "title": "韩国举办研讨会聚焦中韩金融合作新前景",
           "url": "https://wallstreetcn.com/livenews/3093427",
@@ -199,7 +212,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         }
