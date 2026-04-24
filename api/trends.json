@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T00:56:06.630517+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-25T01:44:21.319999+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -26,19 +26,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
+        },
+        {
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -52,26 +75,26 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
-          "url": "https://www.cls.cn/detail/2355166",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时44分"
         },
         {
           "title": "市场消息：美国司法部介入xAI就科罗拉多州法律提起的诉讼。",
@@ -80,7 +103,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -91,7 +114,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         }
@@ -106,11 +129,12 @@
           "url": "https://www.toutiao.com/trending/7631864418351054884/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         },
         {
           "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
@@ -120,8 +144,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         },
         {
           "title": "中东股市收盘播报｜周五（4月24日），迪拜金融市场综合指数收涨0.69%，报5854.19点，本周累计下跌2.23%，整体持续震荡走低。 阿布扎比证券市场综合指数收涨0.43%，报9788.84点，本周累跌1.33%。",
@@ -130,7 +154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         }
@@ -148,8 +172,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -159,8 +183,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时44分]"
         }
       ]
     }
