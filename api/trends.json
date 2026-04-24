@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T05:40:15.213807+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-25T06:33:18.080677+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -37,11 +37,12 @@
             5,
             12,
             9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -53,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -78,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时44分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时33分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -90,8 +91,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时33分]"
+        },
+        {
+          "title": "中国AI隐形王者股价一年翻10倍",
+          "url": "https://www.toutiao.com/trending/7632244941749489179/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时38分 ~ 06时33分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -118,15 +131,15 @@
           "time_info": "[02时38分 ~ 03时45分]"
         },
         {
-          "title": "中国AI隐形王者股价一年翻10倍",
-          "url": "https://www.toutiao.com/trending/7632244941749489179/",
-          "source": "今日头条",
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时38分 ~ 04时37分]"
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -189,8 +202,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
@@ -201,8 +214,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
+        },
+        {
+          "title": "男子出狱后装“金融才俊”骗得240万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%90%8E%E8%A3%85%E2%80%9C%E9%87%91%E8%9E%8D%E6%89%8D%E4%BF%8A%E2%80%9D%E9%AA%97%E5%BE%97240%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            13,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 06时33分]"
         },
         {
           "title": "美财政部对伊朗实施新一轮金融制裁",
@@ -214,19 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "男子出狱后装“金融才俊”骗得240万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%90%8E%E8%A3%85%E2%80%9C%E9%87%91%E8%9E%8D%E6%89%8D%E4%BF%8A%E2%80%9D%E9%AA%97%E5%BE%97240%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 05时40分]"
         },
         {
           "title": "金融产品网络营销被划红线！如何影响展业？机构火速解读",
@@ -245,11 +259,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时33分]"
         },
         {
           "title": "【美财政部对伊朗实施新一轮金融制裁，冻结其约3.44亿美元加密货币资产】据美国财政部海外资产控制办公室（OFAC）消息，美方发布与伊朗相关的最新制裁。同时，美财政部海外资产控制办公室还更新了“特别指定国民清单”，称其属于本轮涉伊朗制裁调整的一部分。此外，美国财政部还宣布对多个与伊朗相关的“钱包”实施制裁，冻结其约3.44亿美元加密货币资产。美国财政部长贝森特在社交平台表示，此举属于针对伊朗的金融制裁措施之一。（央视）",
@@ -287,19 +302,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
           "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时33分]"
         }
       ]
     }
