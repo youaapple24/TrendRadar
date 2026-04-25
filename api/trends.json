@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:44:30.996716+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-25T18:36:20.697928+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时32分 ~ 17时44分]"
+          "appearance_count": 12,
+          "time_info": "[06时32分 ~ 18时36分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 18时36分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -107,21 +107,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 17时44分]"
-        },
-        {
-          "title": "第一次对AI感到恐惧",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 18时36分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -132,11 +119,50 @@
             18,
             11,
             6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时44分 ~ 18时36分]"
+        },
+        {
+          "title": "第一次对AI感到恐惧",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时36分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时44分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 18时36分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时36分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -183,42 +209,6 @@
           "time_info": "[00时55分 ~ 06时33分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 17时44分]"
-        },
-        {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时44分]"
-        },
-        {
-          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
-          "url": "https://flash.jin10.com/detail/20260425162059332800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 17时44分]"
-        },
-        {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
           "url": "https://www.cls.cn/detail/2355592",
           "source": "财联社热门",
@@ -227,8 +217,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时44分]"
+          "appearance_count": 7,
+          "time_info": "[14时16分 ~ 18时36分]"
         },
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -239,8 +229,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 18时36分]"
+        },
+        {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时56分 ~ 17时44分]"
+          "time_info": "[16时57分 ~ 18时36分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
@@ -291,6 +294,20 @@
           "time_info": "[02时38分 ~ 03时45分]"
         },
         {
+          "title": "元戎CEO周光：目标成为物理世界的AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3094343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时36分]"
+        },
+        {
           "title": "网友在daiso买了个小狗不会用的东西",
           "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%9C%A8daiso%E4%B9%B0%E4%BA%86%E4%B8%AA%E5%B0%8F%E7%8B%97%E4%B8%8D%E4%BC%9A%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -301,19 +318,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时16分 ~ 16时02分]"
-        },
-        {
-          "title": "元戎CEO周光：目标成为物理世界的AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3094343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时44分]"
         },
         {
           "title": "微软向「工龄与年龄之和达到 70 或以上」员工提供自愿退休方案，裁员能对冲巨头的长期 AI 资本支出问题么？",
@@ -461,6 +465,20 @@
           "time_info": "[00时55分 ~ 09时24分]"
         },
         {
+          "title": "商务部：取消对欧盟两家金融机构反制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046620",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 18时36分]"
+        },
+        {
           "title": "央行：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
           "url": "https://wallstreetcn.com/livenews/3094340",
           "source": "华尔街见闻-快讯",
@@ -469,11 +487,12 @@
             2,
             12,
             14,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 18时36分]"
         },
         {
           "title": "男子出狱后装“金融才俊”骗得240万",
@@ -489,19 +508,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时45分 ~ 07时33分]"
-        },
-        {
-          "title": "商务部：取消对欧盟两家金融机构反制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33046620",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 17时44分]"
         },
         {
           "title": "美财政部对伊朗实施新一轮金融制裁",
