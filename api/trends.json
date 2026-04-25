@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:33:16.254569+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-04-25T20:39:55.516225+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时55分 ~ 19时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时55分 ~ 20时39分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -123,8 +123,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时55分 ~ 19时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时55分 ~ 20时39分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -152,8 +152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 19时33分]"
+          "appearance_count": 8,
+          "time_info": "[14时16分 ~ 20时39分]"
         },
         {
           "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
@@ -163,8 +163,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时16分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[14时16分 ~ 20时39分]"
         },
         {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
@@ -175,8 +175,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时16分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[14时16分 ~ 20时39分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 20时39分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -194,18 +206,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时33分 ~ 17时44分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时33分]"
         },
         {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
@@ -479,8 +479,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 19时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 20时39分]"
         },
         {
           "title": "央行：持续整治金融机构“内卷式”竞争，高质量统筹做好金融“五篇大文章”",
