@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:59:05.353719+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-04-25T22:40:38.747686+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时16分 ~ 21时59分]"
+          "appearance_count": 11,
+          "time_info": "[14时16分 ~ 22时40分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时56分 ~ 22时40分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -91,11 +103,12 @@
             8,
             9,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时55分 ~ 21时59分]"
+          "appearance_count": 25,
+          "time_info": "[00时55分 ~ 22时40分]"
         },
         {
           "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
@@ -105,20 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时16分 ~ 21时59分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时56分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[14时16分 ~ 22时40分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -133,6 +134,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时16分 ~ 19时33分]"
+        },
+        {
+          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
+          "url": "https://www.zhihu.com/question/2031087393374041169",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 22时40分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -158,11 +175,12 @@
             20,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时55分 ~ 21时59分]"
+          "appearance_count": 25,
+          "time_info": "[00时55分 ~ 22时40分]"
         },
         {
           "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
@@ -173,8 +191,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时16分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[14时16分 ~ 22时40分]"
         },
         {
           "title": "戛纳电影宫的中国AI时刻",
@@ -191,22 +209,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时44分 ~ 18时36分]"
-        },
-        {
-          "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
-          "url": "https://www.zhihu.com/question/2031087393374041169",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            8,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 21时59分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
