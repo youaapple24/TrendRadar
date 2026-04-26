@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T16:12:56.301054+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-04-26T17:44:55.938606+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -40,11 +40,12 @@
           "ranks": [
             14,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 16时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 17时44分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -70,6 +71,19 @@
           "time_info": "[00时32分 ~ 09时45分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 17时44分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
@@ -81,18 +95,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 16时12分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 16时12分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -111,11 +113,34 @@
           "url": "https://flash.jin10.com/detail/20260426150306413800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 17时44分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时12分"
+          "time_info": "17时44分"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "AI对广告行业有何冲击",
@@ -141,11 +166,12 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 16时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 17时44分]"
         }
       ]
     }
