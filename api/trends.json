@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:37:56.435105+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-04-26T19:33:59.175258+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             14,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 18时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 19时33分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -80,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 18时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时55分 ~ 19时33分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -95,6 +96,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 16时12分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时33分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 19时33分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -119,29 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时12分 ~ 17时44分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时37分]"
-        },
-        {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时37分]"
         },
         {
           "title": "AI对广告行业有何冲击",
@@ -169,11 +172,12 @@
             5,
             7,
             12,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 18时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 19时33分]"
         }
       ]
     }
