@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:33:59.175258+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-04-26T20:42:20.628187+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -45,8 +45,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 19时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 20时42分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -78,11 +78,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 19时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 20时42分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -107,8 +108,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 20时42分]"
         },
         {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
@@ -147,6 +148,17 @@
           "time_info": "[16时12分 ~ 17时44分]"
         },
         {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "AI对广告行业有何冲击",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E5%B9%BF%E5%91%8A%E8%A1%8C%E4%B8%9A%E6%9C%89%E4%BD%95%E5%86%B2%E5%87%BB",
           "source": "bilibili 热搜",
@@ -173,11 +185,12 @@
             7,
             12,
             15,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 20时42分]"
         }
       ]
     }
