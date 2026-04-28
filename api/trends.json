@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T09:57:04.630043+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-28T13:24:58.287310+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时24分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时24分]"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -57,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时24分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -100,6 +102,29 @@
           "time_info": "03时27分"
         },
         {
+          "title": "腾讯云升级全栈企业级Agent能力 多款AI产品首发",
+          "url": "https://wallstreetcn.com/livenews/3095443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 13时24分]"
+        },
+        {
           "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3095134",
           "source": "华尔街见闻-快讯",
@@ -109,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "谷歌与五角大楼签署机密AI协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3095442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
@@ -198,17 +234,6 @@
           "time_info": "[06时40分 ~ 07时43分]"
         },
         {
-          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
-          "url": "https://www.cls.cn/detail/2357540",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
-        },
-        {
           "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
           "url": "https://wallstreetcn.com/livenews/3095210",
           "source": "华尔街见闻-快讯",
@@ -219,6 +244,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时46分]"
+        },
+        {
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "高盛：AI风险正加剧关于股票估值的争论",
@@ -243,13 +290,35 @@
           "time_info": "02时01分"
         },
         {
+          "title": "阿里发布第三个癌症AI模型DAMO COCA",
+          "url": "https://wallstreetcn.com/livenews/3095430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "腾讯云升级全栈企业级Agent能力 多款AI产品首发",
+          "url": "https://flash.jin10.com/detail/20260428125818888800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3095321",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -307,12 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "继“AI付”后，支付宝再推“AI收”：为AI产业提供按次收款服务",
+          "url": "https://wallstreetcn.com/livenews/3095409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
@@ -338,6 +418,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "据英国金融时报：华尔街交易商持有的国债规模升至2007年以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260428125654827800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
           "url": "https://wallstreetcn.com/livenews/3095142",
           "source": "华尔街见闻-快讯",
@@ -347,6 +438,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "据英国金融时报：两家精神航空债权人集团支持美国总统特朗普的救助计划。",
+          "url": "https://flash.jin10.com/detail/20260428124131731800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "日本央行：经济前景风险偏向下行，通胀风险偏向上行。 日本经济增速可能在2026财年放缓；预计经济将继续温和增长，尽管增速有所放缓。 由于预计高油价的不利影响将减弱，日本经济增速可能从2027财年起温和回升。 原油价格上涨预计将压低企业利润和家庭实际收入。 受原油价格上涨影响，2026财年CPI预测同比涨幅显著提高。 需特别关注中东局势未来走向对金融及外汇市场的影响。 必须妥善关注，防止通胀大幅向上偏离目标的风险成为现实。 若原油价格维持高位的时间长于预期，由于企业利润和家庭实际收入大幅下降，经济可能进一步放缓。 原油价格上涨可能比以往更容易转嫁至各类商品和服务价格中。 还需关注原材料市场价格上涨导致食品价格涨幅超预期的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3095405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     }
