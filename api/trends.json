@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T13:28:22.090753+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-04-30T16:04:11.677189+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -14,11 +14,29 @@
           "ranks": [
             5,
             4,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 16时04分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            7,
+            2,
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时18分 ~ 13时28分]"
+          "time_info": "[04时53分 ~ 16时04分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -58,22 +76,6 @@
           "time_info": "[01时18分 ~ 09时58分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时53分 ~ 13时28分]"
-        },
-        {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
           "url": "https://www.cls.cn/detail/2360001",
           "source": "财联社热门",
@@ -85,6 +87,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时45分]"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 16时04分]"
         },
         {
           "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
@@ -122,19 +138,6 @@
           "time_info": "07时45分"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时47分 ~ 13时28分]"
-        },
-        {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
           "source": "知乎",
@@ -156,6 +159,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 16时04分]"
         },
         {
           "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
@@ -182,16 +198,16 @@
           "time_info": "[01时18分 ~ 07时45分]"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时04分]"
         },
         {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
@@ -206,6 +222,28 @@
           "time_info": "[04时53分 ~ 05时53分]"
         },
         {
+          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
+          "url": "https://wallstreetcn.com/articles/3771219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
           "title": "AI 对画师的斩杀线大概在哪个位置？",
           "url": "https://www.zhihu.com/question/2012530352657282469",
           "source": "知乎",
@@ -218,6 +256,28 @@
           "time_info": "[04时53分 ~ 05时53分]"
         },
         {
+          "title": "不小心触发了真能解决生活问题的AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%B0%8F%E5%BF%83%E8%A7%A6%E5%8F%91%E4%BA%86%E7%9C%9F%E8%83%BD%E8%A7%A3%E5%86%B3%E7%94%9F%E6%B4%BB%E9%97%AE%E9%A2%98%E7%9A%84AI%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "更多银行参与软银的400亿美元银团贷款 助其投资OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3097306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
           "url": "https://wallstreetcn.com/livenews/3096826",
           "source": "华尔街见闻-快讯",
@@ -227,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "苹果(AAPL.O)计划在iOS 27中推出Siri相机模式和升级的视觉AI。",
@@ -268,7 +317,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
